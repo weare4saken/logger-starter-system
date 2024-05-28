@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "request-logger-example"
+request-logger:
+  enabled: true
+server:
+  port: 8080
